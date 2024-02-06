@@ -2,6 +2,7 @@
 
 This is a task management application built with React using Vite as the build tool. The application allows users to manage tasks, view task details, create new tasks, and update existing tasks.
 
+  
 ## Installation
 
 To run this project locally, you need to have Node.js installed on your machine. You can then use npm or yarn to install the project dependencies and start the development server.
